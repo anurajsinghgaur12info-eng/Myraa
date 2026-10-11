@@ -1,0 +1,6 @@
+{
+  "name": "Myraa AI Assistant",
+  "description": "Real-time voice-to-voice AI companion with witty personality and Gemini Live audio streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
